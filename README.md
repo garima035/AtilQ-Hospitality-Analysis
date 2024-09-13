@@ -14,6 +14,8 @@ Provided Mock-up Dashboard
 
 
 Data Model
+![image](https://github.com/user-attachments/assets/34f964ad-7b92-4d6a-bc0f-e39a64261ebb)
+
 
 
 Overall Analysis View
