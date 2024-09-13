@@ -16,6 +16,9 @@ You are a data analyst who has been provided with sample data and a mock-up dash
   
 Provided Mock-up Dashboard
 
+![image](https://github.com/user-attachments/assets/50fda6d2-095a-4429-9832-84a7e52203ca)
+
+
 
 Data Model
 
